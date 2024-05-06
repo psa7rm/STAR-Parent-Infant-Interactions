@@ -18,3 +18,6 @@ Debrief Dr. DuBay and new lab student on findings.
 Class predictions with a 60% or above with test data. Ensure that the predictions are consecutive to a specific segmented audio file series in order to store the predicted values in a list/array that will aid in implementing the turn taking analysis.
 
 Turn taking analyis: if statements based on conversational switches between the parent and infant within the prediction list/array above (ensuring switches are within a 3-5 seconds of each other).
+
+
+Highly recommend colabpro/AWS to run the image/csv files. Used a mixture of rivanna, AWS, and Azure to process raw data files.
